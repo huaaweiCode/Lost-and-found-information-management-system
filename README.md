@@ -89,9 +89,4 @@
 
 ![目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E7%9B%AE%E5%BD%95.jpg)
 
-## 5、获取方式
-
-扫描下方，回复 “ **失物招领1**” ，即可获取完整版的项目代码。
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
